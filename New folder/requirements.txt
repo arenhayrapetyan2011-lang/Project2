@@ -1,2 +1,3 @@
-aiogram>=3.0,<4.0
-aiohttp>=3.9,<4.0
+aiogram
+aiohttp
+tzdata
